@@ -15,5 +15,7 @@
 
 ## STUDY
 
+* [Kubernetes](study/kubernetes/README.md)
+  * [GCP에 k8s 설치하기](study/kubernetes/gcp-k8s.md)
 * [Real MySQL 8.0](study/real-mysql-8.0.md)
 * [Vue.js](study/vue.js.md)
